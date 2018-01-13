@@ -1,3 +1,4 @@
 Some text to commit
 Some more text to commit
 Even more text
+More
